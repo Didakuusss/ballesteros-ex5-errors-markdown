@@ -14,7 +14,6 @@ Llistat de jocs Populars
 4.Sonic the Hedgehog
 
 ## Característiques
-
 -Grafics pixelats increïbles
 -Banda sonora *8-bits emocionant
 -Suport per comandaments inalàmbrics
