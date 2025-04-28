@@ -7,7 +7,7 @@ Benvigut a la plataforma definitiva de *Videojocs retro.
 -Consola 
 -Mobile
 
-Llistat de jocs Populars
+## Llistat de jocs Populars
 1.Pacman 
 2. Super Mario Bross 
 3.Tetris 
