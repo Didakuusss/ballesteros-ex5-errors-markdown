@@ -28,7 +28,7 @@ Millor joc retro 2023
 ### Requisits de sistema
 
 Windows XP o superior 512MB RAM Targeta gràfica de 64MB
-##Notes addicionals *Actualitzacions trimestrals Compatibilitat amb VR (proximament)
+## Notes addicionals *Actualitzacions trimestrals Compatibilitat amb VR (proximament)
 
 ## Contacte Segueix-nos a Instagram Facebook Twitter!
 
