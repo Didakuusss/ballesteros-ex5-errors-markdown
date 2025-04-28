@@ -28,7 +28,7 @@ Benvigut a la plataforma definitiva de *Videojocs retro.
 ### Requisits de sistema
 
 Windows XP o superior 512MB RAM Targeta gràfica de 64MB
- Notes addicionals *Actualitzacions trimestrals Compatibilitat amb VR (proximament)
+ Notes addicional Actualitzacions trimestrals Compatibilitat amb VR (proximament)
 
 Contacte Segueix-nos a Instagram Facebook Twitter!
 
