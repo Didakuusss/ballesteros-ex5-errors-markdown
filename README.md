@@ -17,7 +17,7 @@ Llistat de jocs Populars
 -Grafics pixelats increïbles
 -Banda sonora *8-bits emocionant
 -Suport per comandaments inalàmbrics
-##Funcionalitats Properes 
+## Funcionalitats Properes 
 |Funcionalitat|Disponibilitat 
 |Multijugador|En desenvolupament 
 |Tornejos en línia|2026
