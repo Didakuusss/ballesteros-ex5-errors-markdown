@@ -9,7 +9,7 @@ Benvigut a la plataforma definitiva de *Videojocs retro.
 
 ## Llistat de jocs Populars
 1.Pacman 
-2. Super Mario Bross 
+2.Super Mario Bross 
 3.Tetris 
 4.Sonic the Hedgehog
 
@@ -30,6 +30,6 @@ Benvigut a la plataforma definitiva de *Videojocs retro.
 Windows XP o superior 512MB RAM Targeta gràfica de 64MB
  Notes addicional Actualitzacions trimestrals Compatibilitat amb VR (proximament)
 
-Contacte Segueix-nos a Instagram Facebook Twitter!
+## Contacte Segueix-nos a Instagram Facebook Twitter!
 
-Crèdits: Equip RetroGaming
+## Crèdits: Equip RetroGaming
