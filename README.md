@@ -3,9 +3,9 @@
 Benvigut a la plataforma definitiva de *Videojocs retro.
 
 ## Plataformes suportades 
--PC 
--Consola 
--Mobile
+- PC 
+ -Consola 
+- Mobile
 
 ## Llistat de jocs Populars
 1.Pacman 
