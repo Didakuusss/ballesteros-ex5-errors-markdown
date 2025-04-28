@@ -22,10 +22,9 @@ Benvigut a la plataforma definitiva de *Videojocs retro.
 |Multijugador|En desenvolupament 
 |Tornejos en línia|2026
 
-Premis i Reconexements:
+## Premis i Reconexements:
 Millor joc retro 2023 
 Premi a la millor jugabilitat
-
 ### Requisits de sistema
 
 Windows XP o superior 512MB RAM Targeta gràfica de 64MB
